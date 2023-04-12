@@ -1,4 +1,4 @@
-# Dappazon
+# vi-commerce
 
 ## Technology Stack & Tools
 
